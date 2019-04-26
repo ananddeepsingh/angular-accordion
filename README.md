@@ -1,6 +1,13 @@
 # Accordion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8. 
+
+## how to start this app?
+
+1. install all the dependency using npm install
+2. start angular server using this command i.e., --> ng serve (--port 8000 if required)
+3. app will start
+4. Any query? Email me singh.ananddeep@gmail.com
 
 ## Development server
 
